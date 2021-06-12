@@ -44,4 +44,4 @@ The objective is simple: Have a fully functional web page that looks the same as
 
 ### When it's done
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3c71cc99d2fc1c12a3d3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210612T013108Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f3597568c11f727501f0e9cd60a6e2708a3adbbf333cc7b12ac0744825f832d0)
+![](images/done.jpg)
